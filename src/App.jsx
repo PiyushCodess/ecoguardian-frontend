@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import Navbar from './components/navbar';
-import Footer from './components/Footer';
+import Footer from './components/footer';
 import ProtectedRoute from './components/ProtectedRoute';
 
 import Home from './pages/home';
