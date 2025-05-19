@@ -1,6 +1,6 @@
 // import React, { useState } from 'react';
 // import { useNavigate, Link } from 'react-router-dom';
-// import './Signup.css';
+// import './SignUp.css';
 
 // const Signup = () => {
 //   const [form, setForm] = useState({
@@ -69,7 +69,7 @@
 
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
-import './Signup.css';
+import './SignUp.css';
 
 const Signup = () => {
   const [isAdmin, setIsAdmin] = useState(false);
